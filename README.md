@@ -91,17 +91,6 @@ Currently contributing to **ICTRoot** — a platform with a custom UI Kit publis
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![SemAntony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smbat1505&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Smbat1505&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Smbat1505&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-
-</div>
 
 ---
 

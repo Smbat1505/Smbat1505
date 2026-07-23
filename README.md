@@ -3,11 +3,9 @@
 # Hey, I'm Sem 👋
 
 **Frontend Developer** focused on scalable Next.js applications, component systems, and production-grade frontend architecture.
-
 [![Telegram](https://img.shields.io/badge/Telegram-@SemAntony-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SemAntony)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Smbat_Antonyan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smbat-antonian)
 [![Email](https://img.shields.io/badge/Email-smbat1584@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smbat1584@gmail.com)
-
 </div>
 
 ---
@@ -18,7 +16,7 @@ Frontend Developer with hands-on experience in large-scale Next.js applications,
 
 Interested in frontend platform engineering, design systems, and scalable UI architecture.
 
-Currently contributing to **ICTRoot** — a platform with a custom UI Kit published to npm, a Next.js 15 client app, and a Next.js + Apollo GraphQL super-admin panel.
+Currently contributing to **ICTRoot** — a platform with a custom UI Kit published to npm, a Next.js client app, and a Next.js + Apollo GraphQL super-admin panel.
 
 ---
 
@@ -86,7 +84,7 @@ Currently contributing to **ICTRoot** — a platform with a custom UI Kit publis
 ## Currently Working On
 
 - 🏗️ **[@ictroot/ui-kit](https://github.com/ictroot70/ui-kit)** — Modular component library (Vite + Storybook + TypeScript), published to npm. ESM + CJS dual output, tree-shakeable subpath exports.
-- 🖥️ **[@ICTRoot Client App](https://github.com/ictroot70/Ict)** — Next.js 15 + Turbopack, RTK, react-hook-form/zod, Embla carousel, image cropping pipeline, SSR smoke tests.
+- 🖥️ **[@ICTRoot Client App](https://github.com/ictroot70/Ict)** — Next.js + Turbopack, RTK, react-hook-form/zod, Embla carousel, image cropping pipeline, SSR smoke tests.
 - 🔧 **[@Super Admin Panel](https://github.com/ictroot70/super-admin-ictroot)** — Next.js + Apollo Client 4 + GraphQL Codegen, Zustand, Tailwind v4, Sentry.
 
 ---
